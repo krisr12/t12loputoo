@@ -37,7 +37,6 @@
 </header>
 
  <ul>
-  <li><a href="user,php.php">Oled siin</a></li>
   <li><a href="data.php">Kodu</a></li>
 </ul>
 
